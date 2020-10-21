@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+hr{
+    width: 30vw;
+    height: 5px;
+    background-color: black;
+    align-content: center;
+    border-radius: 30px;
+}
+
+#color-display{
+    padding: 30px;
+    border-radius: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 40px;
+    color: rgb(241, 232, 232);
+}
+
+#color-value{
+    background-color: transparent;
+}
+
+#button{
+    text-decoration: none;
+    border-radius: 100px;
+    padding: 20px;
+    background-color: aqua;
+    color: rgb(241, 232, 232);
+    
+}
